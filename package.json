@@ -1,0 +1,10 @@
+{
+  "name": "kml2geojson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@tmcw/togeojson": "^4.5.0",
+    "xmldom": "^0.6.0"
+  }
+}
